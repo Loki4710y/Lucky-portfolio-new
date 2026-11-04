@@ -16,7 +16,7 @@ Outside development, I'm interested in **football, AI, creative coding, 3D exper
 
 ---
 
-## Portfolio Highlights
+ Portfolio Highlights
 
 - 🖥️ Interactive macOS-inspired desktop interface
 - 🚀 React + Vite based frontend
