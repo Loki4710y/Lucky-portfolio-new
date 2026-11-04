@@ -168,7 +168,7 @@ The local development server will start and provide a URL in the terminal.
 
 ---
 
-## Available Scripts
+Available Scripts
 
 | Command | Description |
 |---|---|
